@@ -11,10 +11,7 @@ events using Microsoft Sentinel and Kusto Query Language (KQL).
 
 ## Lab Deployment & Configuration
 
-Steps 1 
-<img width="591" height="266" alt="Screenshot 2026-10-27 144203" src="https://github.com/user-attachments/assets/283cdcd6-5e11-4852-83af-f22ee9400d9f" />
 
-screenshot 
 
 
 
