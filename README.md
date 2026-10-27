@@ -33,15 +33,8 @@ events using Microsoft Sentinel and Kusto Query Language (KQL).
 
 ## Project Progress
 
-Status: In Progress
+Lab Deployment & Configuration
 
-## Lab Architecture
-
-Architecture diagram: Coming Soon
-
-## Screenshots
-
-Screenshots will be added as the lab progresses.
 
 ## Key Learning Outcomes
 
